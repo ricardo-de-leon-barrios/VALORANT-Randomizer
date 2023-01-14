@@ -14,3 +14,11 @@ The program has three distinct functions:
   * Sentinels
   
  My goal with this simple program is for casual players of the game to have an extra layer of fun by letting the program choose what agents and weapons to play. The code is up to date with the VALORANT 6.0 patch.
+
+
+## Files included
+
+The repository contains these files:
+* **RULE-TAIM.py**, the source Python code of the program.
+* **RULE-TAIM.exe**, an executable file usable on Windows. Just double-click it and the GUI will open, no need to install anything extra.
+* The *valorant* folder which contains all the images of the agents and the weapons that are displayed on the GUI. The folder needs to be on the same location as the .py and .exe files for them both to properly work.
