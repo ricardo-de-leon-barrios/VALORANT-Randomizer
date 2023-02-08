@@ -66,7 +66,7 @@ class ValorantRandomChooser:
                            'Odin': 'weapon_17'}
         
         window = Tk()
-        window.title("VALORANT RULE-TAIM™ Pre-alpha version 420.69 developed by Alopecic, Inc.")
+        window.title("VALORANT RULE-TAIM")
         
         frame1 = Frame(window)
         frame1.pack()   
